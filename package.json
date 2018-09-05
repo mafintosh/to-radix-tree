@@ -1,6 +1,6 @@
 {
   "name": "to-radix-tree",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a series of strings into a radix tree",
   "main": "index.js",
   "dependencies": {},
